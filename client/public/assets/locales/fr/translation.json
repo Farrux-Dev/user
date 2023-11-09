@@ -1,0 +1,12 @@
+{ "nav1":"Marché", 
+"nav2":"Accueil",
+ "nav3":"Contactez-nous",
+  "nav4":"Ajouter",
+"nav5":"blanc", 
+   "nav6":"orange", 
+   "nav7":"rouge",
+    "nav8":"vert",
+     "username":"nom d’utilisateur",
+      "fullname":"Nom complet", 
+      "go":"Aller" 
+}

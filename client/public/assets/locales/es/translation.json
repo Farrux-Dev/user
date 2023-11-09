@@ -1,0 +1,13 @@
+{ 
+"nav1":"Mercado",
+ "nav2":"Inicio",
+  "nav3":"Contáctenos",
+   "nav4":"Agregar usuario",
+    "nav5":"blanco",
+     "nav6":"naranja",
+      "nav7":"rojo",
+       "nav8":"verde", 
+       "username":"nombre de usuario",
+        "fullname":"Nombre completo", 
+        "go":"Ir"
+    }
